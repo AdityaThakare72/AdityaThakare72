@@ -77,6 +77,6 @@ aditya = {
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityathakare72@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaThakare72)
 
-*Always up for a conversation about AI, agents, or anything Python 🐍*
+*Always up for a conversation about AI, agents, or anything Python*
 
 </div>
