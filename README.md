@@ -15,9 +15,14 @@ aditya = {
     "building"   : ["RAG systems", "Multi-agent AI", "MLOps pipelines"],
     "currently"  : "Exploring Agentic AI & LangGraph deeply",
     "background" : "Civil Eng → AI (yes, the pivot was worth it)",
-    "fun_fact"   : "I explain neural nets for a living — ask me anything 😄"
 }
 ```
+
+😄 **Random Programming Joke** *(new one every visit)*
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=default" alt="Programming Joke" />
+</div>
 
 ---
 
@@ -74,9 +79,13 @@ aditya = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-thakare72/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityathakare72@gmail.com)
+[![Email](https://img.shields.io/badge/EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityathakare72@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaThakare72)
 
-*Always up for a conversation about AI, agents, or anything Python*
+<br/>
+
+*"Programs must be written for people to read, and only incidentally for machines to execute."*
+
+**— Harold Abelson**, Structure and Interpretation of Computer Programs
 
 </div>
