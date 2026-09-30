@@ -4,6 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1B3A5C&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aditya+%F0%9F%91%8B;Data+Scientist+%7C+AI+Engineer;RAG+%7C+Agents+%7C+MLOps)](https://git.io/typing-svg)
 
+I build RAG systems, multi-agent AI and MLOps pipelines in Python.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-thakare72/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityathakare72@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1B3A5C?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-3d-eight-beta.vercel.app)
+
 </div>
 
 ---
@@ -97,7 +103,7 @@ Alongside my data science work, I run sessions on Python, data science, ML, deep
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaThakare72&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaThakare72&layout=compact&hide_border=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaThakare72&layout=compact&hide_border=true&theme=default&hide=jupyter%20notebook" height="165"/>
 </div>
 
 ---
