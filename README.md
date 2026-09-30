@@ -20,6 +20,14 @@ aditya = {
 }
 ```
 
+😄 **Random Programming Joke** *(new one every visit)*
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=default" alt="Programming Joke" />
+</div>
+
+---
+
 ### 🚀 Things I've Built
 
 - [agent-harness-demo](https://github.com/AdityaThakare72/agent-harness-demo): a minimal agent harness in Python, built in five stages (model alone, agent loop, tools, permissions and sandbox, context trimming), with a Gemini adapter and a fake model for tests
