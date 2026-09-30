@@ -2,7 +2,7 @@
 
 <img src="panda1.jpg" width="160" alt="Waving Panda"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1B3A5C&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aditya+%F0%9F%91%8B;Data+Scientist+%7C+AI+Engineer;RAG+%7C+Agents+%7C+MLOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1B3A5C&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aditya+%F0%9F%91%8B;Data+Scientist+%7C+Trainer;RAG+%7C+Agents+%7C+MLOps)](https://git.io/typing-svg)
 
 I build RAG systems, multi-agent AI and MLOps pipelines in Python.
 
